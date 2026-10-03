@@ -208,33 +208,33 @@ The architecture should make future extraction possible without redesigning the 
 ---
 # 5a.Technology Stack
 
-### Frontend
+ Frontend
 - React / Next.js
 - TypeScript
 
-### Backend
+ Backend
 - FastAPI
 - Python
 
-### Database
+ Database
 - PostgreSQL
 
-### Cache / Background Jobs
+ Cache / Background Jobs
 - Redis
 
-### Object Storage
+ Object Storage
 - S3-compatible object storage
 
-### Authentication
+ Authentication
 - JWT / OAuth-based authentication
 
-### Mobile
+ Mobile
 - Android
 
-### Ground Agent
+ Ground Agent
 - Android initially
 
-### Deployment
+ Deployment
 - Docker
 
   
