@@ -206,7 +206,38 @@ Modules must behave like independent systems even though they currently run in t
 The architecture should make future extraction possible without redesigning the business domain.
 
 ---
+# 5a.Technology Stack
 
+### Frontend
+- React / Next.js
+- TypeScript
+
+### Backend
+- FastAPI
+- Python
+
+### Database
+- PostgreSQL
+
+### Cache / Background Jobs
+- Redis
+
+### Object Storage
+- S3-compatible object storage
+
+### Authentication
+- JWT / OAuth-based authentication
+
+### Mobile
+- Android
+
+### Ground Agent
+- Android initially
+
+### Deployment
+- Docker
+
+  
 # 6. Repository Strategy
 
 The project uses a monorepo.
