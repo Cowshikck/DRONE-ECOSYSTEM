@@ -1,0 +1,6 @@
+packages:
+  - "01_CLIENT/web"
+  - "01_CLIENT/mobile"
+  - "01_CLIENT/ground-agent"
+  - "02_BACKEND"
+  - "packages/*"

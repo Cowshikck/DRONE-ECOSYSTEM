@@ -1,0 +1,17 @@
+{
+  "name": "drone-ecosystem",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Drone ecosystem platform - managed modular monolith",
+  "packageManager": "pnpm@12.8.2",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "echo Development workspace not configured yet",
+    "build": "echo Build pipeline not configured yet",
+    "test": "echo Test pipeline not configured yet",
+    "lint": "echo Lint pipeline not configured yet",
+    "typecheck": "echo Typecheck pipeline not configured yet"
+  }
+}
